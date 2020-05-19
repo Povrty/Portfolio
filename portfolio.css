@@ -34,8 +34,3 @@ img {
 .buttons {
   padding: 50px;
 }
-
-.row {
-  display: flex;
-  justify-content: center;
-}
