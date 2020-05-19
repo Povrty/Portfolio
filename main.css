@@ -1,0 +1,27 @@
+html {
+  align-items: center;
+}
+body {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif; 
+  background-color: #e6e6e6;
+  color: black;
+  background-size: 100%;
+}
+a {
+  color: black;
+}
+a:hover {
+  color: #141414;
+}
+ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+li {
+  list-style-type: none;
+  font-size: 48px;
+  padding: 16px;
+}
