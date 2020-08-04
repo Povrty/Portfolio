@@ -1,3 +1,47 @@
+.fitPage {
+    margin: 0;
+    width: 100%;
+}
+
+.navbar {
+    color: white;
+    background-color: #232529;
+    padding: 10px;
+    display: flex;
+    align-items: center; 
+}
+
+.justifyRight {
+    justify-content: right;
+} 
+
+.justifyLeft {
+   justify-content: left; 
+}
+
+.noBulletPoint {
+    list-style-type: none;
+}
+
+.navbarPreset {
+    color: white;
+    text-decoration: none;
+}
+
+.navbarPreset:hover {
+    color: #e0e0e0;
+    background-color: #2f3238;
+}
+
+.inherit {
+    color: inherit;
+    background-color: inherit;
+}
+
+.padding {
+    padding: 10px;
+}
+
 body {
     font-family: 'Gothic A1', sans-serif;
 }
