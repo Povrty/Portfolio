@@ -8,15 +8,12 @@
     background-color: #232529;
     padding: 10px;
     display: flex;
-    align-items: center; 
+    align-items: center;
+    justify-content: flex-end; 
 }
 
-.justifyRight {
-    justify-content: right;
-} 
-
-.justifyLeft {
-   justify-content: left; 
+.logo {
+    margin-right: auto;
 }
 
 .noBulletPoint {
